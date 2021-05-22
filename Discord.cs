@@ -78,7 +78,7 @@ namespace VRCX
             {
                 if (m_Client == null)
                 {
-                    m_Client = new DiscordRpcClient("525953831020920832");
+                    m_Client = new DiscordRpcClient("845540839878164490");
                     if (m_Client.Initialize() == false)
                     {
                         m_Client.Dispose();

@@ -5856,6 +5856,7 @@ speechSynthesis.getVoices();
             playerList: [],
             friendList: []
         };
+        Discord.SetAssets('furalitylogo', 'Furality LUMA', 'vrchatlogo', 'VRChat');
     };
 
     $app.methods.updateGameLogLoop = async function () {
